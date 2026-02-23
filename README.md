@@ -8,8 +8,8 @@ Concluí com sucesso o exercício de TypeScript conforme solicitado. Abaixo est�
   Compilação e Execução: Compilei o código usando o comando tsc, que gerou o arquivo index.js na pasta dist/, e executei o resultado com node dist/index.js.
 
 Resultado da Execução no Terminal:
+             === Catálogo de Produtos ===
 
-              === Catálogo de Produtos ===
 [Eletrônicos]: # "iPhone 15 - R$ 5.999,00 ✅ disponível"
 [Eletrônicos]: # "Cabo HDMI - R$ 39,90 ❌ indisponível"
 [Esportes]: # "Tênis Running Pro - R$ 349,90 ✅ disponível"
